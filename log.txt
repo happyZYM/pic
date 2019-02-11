@@ -1,0 +1,170 @@
+[master 1f38014] 2019-02-04-17-53-21.641
+ 6 files changed, 2 insertions(+), 79 deletions(-)
+ rewrite __pycache__/db.cpython-37.pyc (70%)
+ rewrite log.txt (100%)
+ rename p/{2019-02-04-17-51-17.736.png => 2019-02-04-17-53-21.641.png} (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master f59200d] 2019-02-04-17-55-04.168
+ 5 files changed, 7 insertions(+), 1 deletion(-)
+ create mode 100644 p/2019-02-04-17-55-04.168.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 3ff0191] 2019-02-04-17-56-44.428
+ 6 files changed, 10 insertions(+), 1 deletion(-)
+ create mode 100644 p/2019-02-04-17-56-44.428.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master b64cecc] 2019-02-04-18-01-49.599
+ 8 files changed, 5 insertions(+), 1 deletion(-)
+ rewrite __pycache__/UpdLib.cpython-37.pyc (73%)
+ delete mode 100644 p/2019-02-04-17-55-04.168.png
+ delete mode 100644 p/2019-02-04-17-56-44.428.png
+ rename p/{2019-02-04-17-53-21.641.png => 2019-02-04-18-01-49.599.png} (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master c530ed7] 2019-02-04-18-03-02.157
+ 6 files changed, 8 insertions(+), 1 deletion(-)
+ rewrite __pycache__/UpdLib.cpython-37.pyc (73%)
+ rename p/{2019-02-04-18-01-49.599.png => 2019-02-04-18-03-02.157.png} (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 72a32db] 2019-02-04-18-07-19.316
+ 6 files changed, 5 insertions(+)
+ rewrite __pycache__/upload.cpython-37.pyc (74%)
+ delete mode 100644 p/2019-02-04-18-03-02.157.png
+ create mode 100644 p/2019-02-04-18-07-19.316.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 32027e4] 2019-02-04-18-08-27.716
+ 4 files changed, 6 insertions(+)
+ rename p/{2019-02-04-18-07-19.316.png => 2019-02-04-18-08-27.716.png} (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master c0b5813] 2019-02-04-18-11-32.033
+ 4 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-04-18-11-32.033.JPG
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master a89a9ca] 2019-02-04-18-11-34.412
+ 4 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-04-18-11-34.412.JPG
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 4c9092d] 2019-02-04-18-13-51.724
+ 6 files changed, 4 insertions(+)
+ delete mode 100644 p/2019-02-04-18-11-32.033.JPG
+ delete mode 100644 p/2019-02-04-18-11-34.412.JPG
+ create mode 100644 p/2019-02-04-18-13-51.724.JPG
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 47a4c77] 2019-02-04-18-19-46-460
+ 8 files changed, 8 insertions(+), 2 deletions(-)
+ delete mode 100644 p/2019-02-04-18-13-51.724.JPG
+ create mode 100644 p/2019-02-04-18-19-46-460.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master eaedc9f] 2019-02-05-07-45-15-626
+ 7 files changed, 8 insertions(+), 2 deletions(-)
+ create mode 100644 p/2019-02-05-07-45-15-626.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 0523a2f] 2019-02-05-08-00-29-224
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 p/2019-02-05-07-45-15-626.png
+ create mode 100644 p/2019-02-05-08-00-29-224.png
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 79d53c5] 2019-02-05-08-02-30-702
+ 6 files changed, 6 insertions(+), 1 deletion(-)
+ delete mode 100644 p/2019-02-05-08-00-29-224.png
+ create mode 100644 p/2019-02-05-08-02-30-702.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 254dc55] 2019-02-05-08-09-03-778
+ 11 files changed, 6 insertions(+)
+ delete mode 100644 p/2019-02-03-18-13-52.png
+ delete mode 100644 p/2019-02-04-07-18-10.png
+ delete mode 100644 p/2019-02-04-10-02-15.png
+ delete mode 100644 p/2019-02-04-18-08-27.716.png
+ delete mode 100644 p/2019-02-04-18-19-46-460.png
+ delete mode 100644 p/2019-02-05-08-02-30-702.png
+ create mode 100644 p/2019-02-05-08-09-03-778.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master c33dfee] 2019-02-05-08-10-29-912
+ 4 files changed, 11 insertions(+)
+ create mode 100644 p/2019-02-05-08-10-29-912.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master c141041] 2019-02-05-08-35-51-107
+ 7 files changed, 15 insertions(+), 9 deletions(-)
+ delete mode 100644 p/2019-02-05-08-09-03-778.png
+ create mode 100644 p/2019-02-05-08-35-51-107.jpg
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 9514b82] 2019-02-05-09-08-27-313
+ 5 files changed, 6 insertions(+)
+ create mode 100644 p/2019-02-05-09-08-27-313.jpg
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 370176f] 2019-02-05-09-27-41-593
+ 5 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-05-09-27-41-593.png
+ create mode 100644 p/paste.lnk
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master e2401f8] 2019-02-05-17-36-22-297
+ 6 files changed, 9 insertions(+), 1 deletion(-)
+ create mode 100644 p/2019-02-05-17-36-22-297.jpg
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master dade07b] 2019-02-05-17-43-27-405
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-05-17-43-27-405.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master d14105e] 2019-02-05-17-43-31-275
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-05-17-43-31-275.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 7510c6c] 2019-02-06-16-00-18-746
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-06-16-00-18-746.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master a18fdd2] 2019-02-06-16-00-34-468
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-06-16-00-34-468.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 4f533e8] 2019-02-06-17-19-06-694
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-06-17-19-06-694.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+[master 03f644d] 2019-02-06-17-19-08-064
+ 6 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-06-17-19-08-064.png
+ create mode 100644 p/2019-02-06-17-19-10-020.png
+ create mode 100644 p/2019-02-06-17-19-12-620.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 9756eb9] 2019-02-06-17-19-10-020
+ 2 files changed, 7 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 91185f2] 2019-02-06-17-19-12-620
+ 2 files changed, 4 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 979e6af] 2019-02-07-13-49-08-874
+ 6 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100644 p/2019-02-07-13-49-08-874.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+[master 09d6e47] 2019-02-08-14-00-12-778
+ 4 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-08-14-00-12-778.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 3ec61e5] 2019-02-08-14-06-28-302
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-08-14-06-28-302.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 4f959e9] 2019-02-08-19-44-01-845
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-02-08-19-44-01-845.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+[master b341a0a] 2019-02-11-21-56-40-918
+ 4 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-11-21-56-40-918.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
