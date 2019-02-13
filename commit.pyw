@@ -6,6 +6,10 @@ from time import sleep
 from os import system
 
 if(len(argv)!=2):
+    run("git add --all >>log.txt",shell=True)
+    run("git commit -m \"del\" >>log.txt",shell=True)
+    run("git push -u show master >>log.txt",shell=True)
+    run("git push -u origin master >>log.txt",shell=True)
     exit()
 title=argv[1]
 while True:
