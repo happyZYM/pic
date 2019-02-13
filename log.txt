@@ -181,3 +181,9 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
  1 file changed, 4 insertions(+)
 Branch 'master' set up to track remote branch 'master' from 'show'.
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 224a9a0] 2019-02-13-16-59-45-643
+ 5 files changed, 4 insertions(+)
+ create mode 100644 p/2019-02-13-16-59-45-643.png
+ delete mode 100644 p/新建文本文档.txt
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
