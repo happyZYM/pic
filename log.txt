@@ -168,3 +168,8 @@ Branch 'master' set up to track remote branch 'master' from 'show'.
  create mode 100644 p/2019-02-11-21-56-40-918.png
 Branch 'master' set up to track remote branch 'master' from 'show'.
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 5e01ddd] del
+ 2 files changed, 4 insertions(+)
+ create mode 100644 p/新建文本文档.txt
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
