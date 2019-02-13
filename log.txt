@@ -173,3 +173,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
  create mode 100644 p/新建文本文档.txt
 Branch 'master' set up to track remote branch 'master' from 'show'.
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master b4c2992] del
+ 1 file changed, 5 insertions(+)
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
