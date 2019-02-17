@@ -187,3 +187,8 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
  delete mode 100644 p/新建文本文档.txt
 Branch 'master' set up to track remote branch 'master' from 'show'.
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+[master 7cccaae] del
+ 3 files changed, 6 insertions(+)
+ delete mode 100644 p/2019-02-13-16-59-45-643.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
