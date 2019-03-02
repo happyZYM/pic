@@ -22,7 +22,7 @@ while True:
 run("git add --all >>log.txt",shell=True)
 run("git commit -m \""+title+"\" >>log.txt",shell=True)
 run("git push -u show master >>log.txt",shell=True)
-run("git push -u origin master >>log.txt",shell=True)
+run("git push -u bk master >>log.txt",shell=True)
 que=db.load("que.db")
 que=que[1:]
 db.write("que.db",que)
