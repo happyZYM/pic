@@ -1,3 +1,8 @@
 ﻿[master 4ede854] del
  1 file changed, 1 insertion(+), 1 deletion(-)
 Branch 'master' set up to track remote branch 'master' from 'show'.
+[master a5e6eab] 2019-03-05-19-39-50-969
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 p/2019-03-05-19-39-50-969.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'bk'.
