@@ -61,3 +61,8 @@ Branch 'master' set up to track remote branch 'master' from 'bk'.
  create mode 100644 p/2019-03-05-20-04-12-434.png
 Branch 'master' set up to track remote branch 'master' from 'show'.
 Branch 'master' set up to track remote branch 'master' from 'bk'.
+[master c39d07c] 2019-03-05-20-04-50-749
+ 4 files changed, 5 insertions(+)
+ create mode 100644 p/2019-03-05-20-04-50-749.png
+Branch 'master' set up to track remote branch 'master' from 'show'.
+Branch 'master' set up to track remote branch 'master' from 'bk'.
