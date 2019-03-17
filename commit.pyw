@@ -8,7 +8,7 @@ from os import system
 if(len(argv)!=2):
     run("git add --all >>log.txt",shell=True)
     run("git commit -m \"del\" >>log.txt",shell=True)
-    run("git push -u show master >>log.txt",shell=True)
+    #run("git push -u show master >>log.txt",shell=True)
     run("git push -u bk master >>log.txt",shell=True)
     exit()
 title=argv[1]
@@ -21,7 +21,7 @@ while True:
     sleep(0.05)
 run("git add --all >>log.txt",shell=True)
 run("git commit -m \""+title+"\" >>log.txt",shell=True)
-run("git push -u show master >>log.txt",shell=True)
+#run("git push -u show master >>log.txt",shell=True)
 run("git push -u bk master >>log.txt",shell=True)
 que=db.load("que.db")
 que=que[1:]

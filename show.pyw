@@ -1,4 +1,4 @@
-import tkinter as tk
+﻿import tkinter as tk
 from sys import argv
 import db
 import win32clipboard as w
@@ -16,7 +16,7 @@ def setText(aString):
     w.CloseClipboard()
 
 def copy():
-    setText("https://happyzym.gitee.io/pic/p/"+url)
+    setText("https://happyzym.github.io/pic/p/"+url)
 
 d=db.load(argv[1])
 #d=db.load("C:\\Users\\ZHUAN_~1\\AppData\\Local\\Temp\\45526.db")
@@ -33,7 +33,7 @@ label_img = tk.Label(wd, image = pic)
 label_img.pack(side=tk.TOP)
 B = tk.Button(wd,text="复制",command=copy)
 text = tk.Entry(wd, highlightcolor = 'red',width=60)
-text.insert(0,"https://happyzym.gitee.io/pic/p/"+url)
+text.insert(0,"https://happyzym.github.io/pic/p/"+url)
 text.pack(side=tk.LEFT)
 B.pack(side=tk.RIGHT)
 wd.mainloop()
